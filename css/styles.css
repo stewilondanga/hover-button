@@ -241,10 +241,11 @@ p a:hover {
   position: relative;
 }
 
-/*.btn-4 span {
+.btn-4 span {
   z-index: 20;
 }
-.btn-4:after {
+
+/*.btn-4:after {
   background: #fff;
   content: "";
   height: 155px;
