@@ -168,12 +168,13 @@ p a:hover {
   transition-delay: none;
 }
 
-/*.btn-1:hover {
+.btn-1:hover {
   background: rgba(225, 51, 45, 0);
   font-weight: 900;
   letter-spacing: 1px;
 }
-.btn-1:hover rect {
+
+/*.btn-1:hover rect {
   stroke-width: 5;
   stroke-dasharray: 15, 310;
   stroke-dashoffset: 48;
