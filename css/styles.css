@@ -235,12 +235,13 @@ p a:hover {
   transition: all 250ms linear;
 }
 
-/*.btn-4 {
+.btn-4 {
   border: 1px solid;
   overflow: hidden;
   position: relative;
 }
-.btn-4 span {
+
+/*.btn-4 span {
   z-index: 20;
 }
 .btn-4:after {
