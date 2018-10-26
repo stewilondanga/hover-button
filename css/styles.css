@@ -89,16 +89,17 @@ p {
   font-size: 12px;
 }
 
-/*@media (min-width: 600px) {
+@media (min-width: 600px) {
   p {
     left: 50%;
     position: absolute;
     -webkit-transform: translate(-50%, 0);
-            transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
     top: 90%;
   }
 }
-@media (max-height: 500px) {
+
+/*@media (max-height: 500px) {
   p {
     left: 0;
     position: relative;
