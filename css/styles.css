@@ -245,7 +245,7 @@ p a:hover {
   z-index: 20;
 }
 
-/*.btn-4:after {
+.btn-4:after {
   background: #fff;
   content: "";
   height: 155px;
@@ -254,13 +254,13 @@ p a:hover {
   position: absolute;
   top: -50px;
   -webkit-transform: rotate(35deg);
-          transform: rotate(35deg);
+  transform: rotate(35deg);
   transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
   width: 50px;
   z-index: -10;
 }
 
-.btn-4:hover:after {
+/*.btn-4:hover:after {
   left: 120%;
   transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
 }
