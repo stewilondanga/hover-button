@@ -65,12 +65,13 @@ h1 {
   margin: 0 0 2em;
 }
 
-/*@media (min-width: 450px) {
+@media (min-width: 450px) {
   h1 {
     font-size: 1.75em;
   }
 }
-@media (min-width: 760px) {
+
+/*@media (min-width: 760px) {
   h1 {
     font-size: 3.25em;
   }
