@@ -174,14 +174,14 @@ p a:hover {
   letter-spacing: 1px;
 }
 
-/*.btn-1:hover rect {
+.btn-1:hover rect {
   stroke-width: 5;
   stroke-dasharray: 15, 310;
   stroke-dashoffset: 48;
   transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-.btn-2 {
+/*.btn-2 {
   letter-spacing: 0;
 }
 
