@@ -6,6 +6,12 @@
   transition-timing-function: ease;
 }
 
+html, body {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,15 +33,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-
-html,
-body {
-  box-sizing: border-box;
-  height: 100%;
-  width: 100%;
 }
 
 body {
