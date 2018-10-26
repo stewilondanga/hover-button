@@ -33,7 +33,7 @@ body {
   height: 1.5em;
 }
 
-/*.buttons {
+.buttons {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -42,7 +42,7 @@ body {
   width: 100%;
 }
 
-.container {
+/*.container {
   align-items: center;
   display: flex;
   flex-direction: column;
