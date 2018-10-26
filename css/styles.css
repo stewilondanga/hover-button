@@ -152,14 +152,15 @@ p a:hover {
   font-weight: 100;
 }
 
-/*.btn-1 svg {
+.btn-1 svg {
   height: 45px;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
 }
-.btn-1 rect {
+
+/*.btn-1 rect {
   fill: none;
   stroke: #fff;
   stroke-width: 2;
