@@ -181,11 +181,11 @@ p a:hover {
   transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-/*.btn-2 {
+.btn-2 {
   letter-spacing: 0;
 }
 
-.btn-2:hover,
+/*.btn-2:hover,
 .btn-2:active {
   letter-spacing: 5px;
 }
