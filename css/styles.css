@@ -185,12 +185,11 @@ p a:hover {
   letter-spacing: 0;
 }
 
-/*.btn-2:hover,
-.btn-2:active {
+.btn-2:hover, .btn-2:active {
   letter-spacing: 5px;
 }
 
-.btn-2:after,
+/*.btn-2:after,
 .btn-2:before {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
