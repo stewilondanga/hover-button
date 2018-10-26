@@ -12,6 +12,12 @@ html, body {
   width: 100%;
 }
 
+body {
+  background: #E1332D;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,12 +39,6 @@ html, body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  background: #E1332D;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
 }
 
 .buttons {
