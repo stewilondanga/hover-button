@@ -58,13 +58,14 @@ body {
   }
 }
 
-/*h1 {
+h1 {
   color: #fff;
   font-size: 1.25em;
   font-weight: 900;
   margin: 0 0 2em;
 }
-@media (min-width: 450px) {
+
+/*@media (min-width: 450px) {
   h1 {
     font-size: 1.75em;
   }
