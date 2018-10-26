@@ -147,11 +147,12 @@ p a:hover {
   text-decoration: none;
 }
 
-/*.btn-1 {
+.btn-1 {
   background: #e02c26;
   font-weight: 100;
 }
-.btn-1 svg {
+
+/*.btn-1 svg {
   height: 45px;
   left: 0;
   position: absolute;
