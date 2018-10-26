@@ -143,11 +143,11 @@ p a:hover {
   }
 }
 
-/*.btn:hover {
+.btn:hover {
   text-decoration: none;
 }
 
-.btn-1 {
+/*.btn-1 {
   background: #e02c26;
   font-weight: 100;
 }
